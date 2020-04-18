@@ -1,17 +1,17 @@
-# JBDAP-Node-Makeup
+# JS-Makeup
 
 ### A basic library for js development, which extends String/Number/Date to make coding easier.
 
 ## **Install**
 
 ~~~
-npm install jbdap-makeup --save
+npm install js-makeup --save
 ~~~
 
 or
 
 ~~~
-yarn add jbdap-makeup
+yarn add js-makeup
 ~~~
 
 ## **Features**
