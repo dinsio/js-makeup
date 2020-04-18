@@ -1,6 +1,6 @@
 {
   "name": "js-makeup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A javascript extention library which makes it easier to code with js.",
   "main": "index.js",
   "repository": {
